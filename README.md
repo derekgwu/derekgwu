@@ -1,5 +1,6 @@
 ## 👋  Hi, I’m Derek Chen
 - 👀 I’m interested in software engineering, cloud computing, full stack development, and DevOps
+- 💼 Worked For Flexwind, Open Guidelines, George Washington University
 - 🌱 I’m currently learning AWS features and operating systems
 - 📫 How to reach me: dchen4002@gmail.com
 - 😄 Pronouns: He/Him
