@@ -1,4 +1,4 @@
-#👋 Hi, I’m Derek Chen
+## 👋  Hi, I’m Derek Chen
 - 👀 I’m interested in software engineering, cloud computing, full stack development, and DevOps
 - 🌱 I’m currently learning AWS features and operating systems
 - 📫 How to reach me: dchen4002@gmail.com
