@@ -16,7 +16,8 @@
 |-------------------------|------------------------|-----------|
 | **Coverly** ✍️          | Web application that allows users to quickly produce cover letters for their job applications | [View Repo](https://github.com/derekgwu/Coverly) |
 | **Open Guidelines** 🌎          |Mobile Application that displays medical manuals for pediatricians in Malawi, Africa | [View Repo](https://github.com/derekgwu/med-app-project) |
-| **Tutoring Website** 🌎          |Static website that displays Python learning resources and programming exercises | [View Website](https://derekgwu.github.io/tutoring-files/) |
+| **GW Hatchet Mobile Application** 📰          |Mobile Application that displays the GW student newspaper | [View Repo](https://github.com/derekgwu/Hatchet-Mobile) |
+| **Tutoring Website** ✏️         |Static website that displays Python learning resources and programming exercises | [View Website](https://derekgwu.github.io/tutoring-files/) |
 
 ---
 
