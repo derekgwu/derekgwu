@@ -3,10 +3,7 @@
 - 📫 How to reach me: dchen4002@gmail.com
 - 😄 Pronouns: He/Him
 
-## 🔧 Skills & Technologies
-- **Languages:** Javascript, Java, Python, HTML/CSS, C, C++  
-- **Frameworks:** React, Django, Spring Boot, Angular 
-- **Tools:** Docker, Kubernetes, Git, Azure, AWS
+
 ---
 
 ## 🌟 Featured Projects
